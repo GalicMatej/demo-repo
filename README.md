@@ -8,4 +8,4 @@ This is my subheader!
 
 ## Local Development
 
-1. Opne index.html in your browser.
+1. Open index.html in your browser.
